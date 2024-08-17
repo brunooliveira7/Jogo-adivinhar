@@ -17,18 +17,13 @@ function handleTryClick(event) {
   event.preventDefault(); //não faça o padrão(não envia o form btn)
 
   const inputNumber = document.querySelector("#inputNumber");
-
-  if (Number(inputNumber.value) === "") {
-    return;
-  }
-
   if (Number(inputNumber.value) == randomNumber) {
     toggleScreen();
 
     screen2.querySelector(
       "h2"
     ).innerText = `Acertou em ${xAttempts} tentativas`;
-    // Verifica se está fora do intervalo
+    // Verifica se o número digitado está fora do intervalo
   } else if (Number(inputNumber.value) < 0 || Number(inputNumber.value) > 10) {
     alert("Número fora do intervalo entre 0 a 10");
   }
