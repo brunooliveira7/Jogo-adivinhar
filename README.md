@@ -1,7 +1,7 @@
 <h1 align="center"> Jogo de adivinhar um número </h1>
 
 <p align="center">
-Um jogo de adivinhação de número é uma atividade divertida e desafiadora que testa a capacidade dos jogadores de adivinhar um número secreto dentro de um intervalo de 0 a 10. Site disponível em: https://brunooliveira7.github.io/Jogo-adivinhar/
+O jogo de adivinhação de número é uma atividade divertida e desafiadora que testa a capacidade dos jogadores de adivinhar um número secreto dentro de um intervalo de 0 a 10. Site disponível em: https://brunooliveira7.github.io/Jogo-adivinhar/
 </p>
 
 <p align="center">
