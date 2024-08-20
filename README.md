@@ -12,10 +12,10 @@ o Jogo de adivinhar um número é um jogo de adivinhação de um número no inte
 </p>
 
 <p align="center">
-  <img alt="License" src="https://github.com/brunooliveira7/Activity-Planner/blob/main/assets/Layout%20Activity%20Planner.png">
+  <img alt="License" src="https://github.com/brunooliveira7/Jogo-adivinhar/blob/main/.vscode/Layout%20jogo%20adivinhar%201.png">
 </p>
 <p align="center">
-  <img alt="License" src="https://github.com/brunooliveira7/Activity-Planner/blob/main/assets/Layout%20Activity%20Planner.png">
+  <img alt="License" src="https://github.com/brunooliveira7/Jogo-adivinhar/blob/main/.vscode/Layout%20jogo%20adivinhar%202.png">
 </p>
 
 <br>
