@@ -1,7 +1,7 @@
 <h1 align="center"> Jogo de adivinhar um número </h1>
 
 <p align="center">
-o Jogo de adivinhar um número é um jogo de adivinhação de um número no intervalo de 0 a 10. Site disponível em: https://brunooliveira7.github.io/Jogo-adivinhar/
+O jogo de adivinhar um número é um jogo de adivinhação de um número no intervalo de 0 a 10. Site disponível em: https://brunooliveira7.github.io/Jogo-adivinhar/
 </p>
 
 <p align="center">
